@@ -9,7 +9,7 @@
       "message": "new version available",
       "bypass": false,
       "type": "ANNOUNCEMENT",
-      "expired": false
+      "expired": true
     }
   ]
 }
