@@ -7,9 +7,9 @@
             "date_end": "05/08/2023",
             "daily_frequency": 1,
             "message": "new version available",
-            "bypass": True,
+            "bypass": true,
             "type": "ANNOUNCEMENT",
-            "expired": False,
+            "expired": false,
         }
     ]
 }
